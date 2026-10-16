@@ -1,0 +1,14 @@
+Folder PATH listing
+Volume serial number is 768B-6B4E
+C:.
+    app.py
+    folder_structure.txt
+    ML_Regression.ipynb
+    NLP_Sentiment_Analysis.ipynb
+    requirements.txt
+    urbankart_best_regression_model.joblib
+    UrbanKart_Customer_Analytics_Master.csv
+    UrbanKart_HuggingFace_NLP_Customer_Reviews.csv
+    
+No subfolders exist 
+
